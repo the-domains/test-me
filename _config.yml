@@ -1,0 +1,14 @@
+layout_spectrum: 0.4524258046876639
+typography_spectrum: 0.2851235936395824
+color:
+  brandStrength: 0.666309472406283
+  lightness: 0.5673537263646722
+  saturation: 0.545185019960627
+  rhythmicContrast: 0.7744715053122491
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: test me
