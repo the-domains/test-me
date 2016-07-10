@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[test me]]></title>
+        <description><![CDATA[test me]]></description>
+        <link>https://thegrid.ai/test-me/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jul 2016 22:45:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test-me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Discussing Coffee with Marco Lavazza at the US Open]]></title>
+            <description><![CDATA[<article><h1>Discussing Coffee with Marco Lavazza at the US Open</h1><p>It's been a big year for Lavazza. Not only is it their 120th anniversary, they've also partnered with the Italian Pavillon at the World Exposition Milan 2015 and expanded their tennis partnerships to include a sponsorship of the US Open.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b409d2fe1d9493a232c86da455e19117512c51d1.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/food-drink/lavazza-us-open-2015</link>
+            <guid isPermaLink="false">dc2ab912-e022-4fbd-a3fa-8e99163ea192</guid>
+            <pubDate>Sun, 10 Jul 2016 22:45:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chocolate Skateboards + DQM + Mast Brothers]]></title>
+            <description><![CDATA[<article><h1>Chocolate Skateboards + DQM + Mast Brothers</h1><p>Since its humble beginnings as a sister company to Mike Carroll and Rick Howard's Girl Skateboards, Chocolate has grown into one of the more influential brands in skateboarding's surrounding culture. Now 20 years later, with legends like Gino Iannucci and young gun Elijah Berle on the roster, the company shows no signs of slowing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09adb57c67d7d90ccdac72399f593aaf7970d3c7.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/food-drink/chocolate-skateboards-dqm-mast-brothers-bar</link>
+            <guid isPermaLink="false">d5e84ee5-1f32-460c-90ad-ecd678c5e027</guid>
+            <pubDate>Sun, 10 Jul 2016 22:45:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bistro Proti Proudu, Prague, Czech Republic ]]></title>
+            <description><![CDATA[<article><h1>Bistro Proti Proudu, Prague, Czech Republic </h1><p>With an ever-growing number of cool cafés, wine bars and shops, Prague's Karlín district is fast becoming a haven for the hip set. Its latest arrival, is Bistro Proti, a cosy corner eatery with a sleek interior inspired by the neighbourhood's most significant historical figure, engineer František Križík.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1fd22919c3e43a0e413c38e19bb8ca598161339.jpg"></article>]]></description>
+            <link>http://www.wallpaper.com/travel/czech-republic/prague/restaurants/bistro-proti-proudu</link>
+            <guid isPermaLink="false">94f42bfc-26ec-4848-b47c-352b9caa8d41</guid>
+            <pubDate>Sun, 10 Jul 2016 22:45:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
