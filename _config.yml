@@ -6,9 +6,9 @@ color:
   saturation: 0.545185019960627
   rhythmicContrast: 0.7744715053122491
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
 name: test me
